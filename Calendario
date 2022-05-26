@@ -1,18 +1,19 @@
 <?xml version="1.0"?>
 <peliculas>
-	<pelicula>
-		<categoria>marvel</categoria>
-		<fecha>20-11-2022</fecha>
-		<titulo>Vengadores 5</titulo>
-		<imagen>https://super-ficcion.com/wp-content/uploads/2022/05/Secret-Wars-1-780x470.webp</imagen>
-		<descripcion>Pues una más si ya sabes de qué va</descripcion>
-	</pelicula>
+	
 	<pelicula>
 		<categoria>dc</categoria>
 		<fecha>02-03-2023</fecha>
 		<titulo>Flash</titulo>
 		<imagen>https://super-ficcion.com/wp-content/uploads/2022/02/the-flash-villano-780x470.webp</imagen>
 		<descripcion>Corre Barry corre</descripcion>
+	</pelicula>
+	<pelicula>
+		<categoria>marvel</categoria>
+		<fecha>20-11-2022</fecha>
+		<titulo>Vengadores 5</titulo>
+		<imagen>https://super-ficcion.com/wp-content/uploads/2022/05/Secret-Wars-1-780x470.webp</imagen>
+		<descripcion>Pues una más si ya sabes de qué va</descripcion>
 	</pelicula>
 	<pelicula>
 		<categoria>ciencia ficcion y fantasia</categoria>
