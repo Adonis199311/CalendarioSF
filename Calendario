@@ -1,5 +1,12 @@
 <?xml version="1.0"?>
 <peliculas>
+	<pelicula>
+		<categoria>Star Wars</categoria>
+		<fecha>27-05-2022</fecha>
+		<titulo>Obi-Wan Kenobi</titulo>
+		<imagen>https://super-ficcion.com/wp-content/uploads/2022/05/Obi-Wan-Kenobi-serie-600x338.webp</imagen>
+		<descripcion>Obi-Wan deberá enfrentarse a su pasado después de 10 años.</descripcion>
+	</pelicula>
 	
 	<pelicula>
 		<categoria>dc</categoria>
